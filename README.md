@@ -2,7 +2,7 @@
 __Repositorio creado para subir herramientas utilizadas en mis proyectos.__  
 Herramientas:  
 1.-Ninguna  
-##Pendientes:  
+## Pendientes:  
 [ ] Subir motor encriptacion 
 
 ## Usos
