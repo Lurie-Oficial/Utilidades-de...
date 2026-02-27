@@ -3,11 +3,11 @@ __Repositorio creado para subir herramientas utilizadas en mis proyectos.__
 Herramientas:  
 1.-Ninguna  
 ##Pendientes:  
-[]Subir motor encriptacion 
+[ ] Subir motor encriptacion 
 
-##Usos
+## Usos
 Se pueden utilizar en *cualquier proyecto*, usandolos responsablemente.
 
-###Licencia
+### Licencia
 __Grl:__  
 GPL v3.
