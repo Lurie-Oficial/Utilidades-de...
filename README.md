@@ -9,5 +9,5 @@ Herramientas:
 Se pueden utilizar en *cualquier proyecto*, usandolos responsablemente.
 
 ### Licencia
-__Grl:__  
+__General:__  
 [GPL v3.](https://github.com/Lurie-Oficial/Utilidades-de.../blob/main/LICENSE)
